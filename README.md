@@ -1,6 +1,6 @@
 # mongoose-homework
 
-## (POSTMAN DOCS)[https://documenter.getpostman.com/view/28209187/2s9YkgE5eh]
+## [POSTMAN DOCS](https://documenter.getpostman.com/view/28209187/2s9YkgE5eh)
 
 ### Installation
 
